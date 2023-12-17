@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sathyajith99
-- 👀 I’m interested in Developing web sites.
+- 👀 I’m interested in Developing web sites, Web Applications & Desktop Applications(Using C#.net)
 - 🌱 I’m currently learning BSC(Hons)Information Technology.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 0776809685 via whatsapp
